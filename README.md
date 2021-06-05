@@ -39,6 +39,6 @@ Here are some ideas to get you started:
    
   
    
-![github contribution grid snake animation](https://github.com/Thales-Eduardo/Thales-Eduardo/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Thales-Eduardo/Thales-Eduardo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
