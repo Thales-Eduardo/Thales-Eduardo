@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 ![thales](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&theme=dracula)
   <a href="https://github.com/Thales-Eduardo">
   
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thales-Eduardo}/count.svg" /></p> 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thales-Eduardo}/count.svg" /></p> 
+<br></div>
   
 <div>
 <div style="display: inline_block"><br>
