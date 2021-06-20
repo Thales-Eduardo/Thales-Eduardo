@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&locale=en&=true&theme=dracula" alt="WelissonLuca" /></p>
+&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&locale=en&=true&theme=dracula" alt="WelissonLuca" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&how_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&how_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&theme=dracula)
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thales-Eduardo}/count.svg" /></p> 
-<br></div>
-
- <div>
+![thales](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&theme=dracula)
   <a href="https://github.com/Thales-Eduardo">
 <div>
 <div style="display: inline_block"><br>
