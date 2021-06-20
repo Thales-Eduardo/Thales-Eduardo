@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&locale=en&=true&theme=dracula" alt="WelissonLuca" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&how_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&locale=en&=true&theme=dracula" alt="WelissonLuca" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&how_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![thales](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&theme=dracula)
   <a href="https://github.com/Thales-Eduardo">
