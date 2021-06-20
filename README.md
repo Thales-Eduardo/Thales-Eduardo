@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&how_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&theme=dark)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thales-Eduardo}/count.svg" /></p> 
+<br></div>
+
  <div>
   <a href="https://github.com/Thales-Eduardo">
 <div>
