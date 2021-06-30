@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thales-eduardo&theme=dracula&margin-w=40&margin-h=40)](https://github.com/Thales-eduardo)
 
 <p></p>
+
 &nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&locale=en&=true&theme=dracula" alt="WelissonLuca" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&how_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
