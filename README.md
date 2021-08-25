@@ -1,20 +1,10 @@
 
 ### Hi there 👋
-
-<!--
-**Thales-Eduardo/Thales-Eduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thales-eduardo&theme=dracula&margin-w=40&margin-h=40)](https://github.com/Thales-eduardo)
-
-
-&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&locale=en&=true&theme=dracula" alt="WelissonLuca" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&how_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![thales](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&theme=dracula)
-  <a href="https://github.com/Thales-Eduardo">
   
- <div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&theme=dracula)
+![a](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&layout=compact&theme=dracula)
+
+<div align="center">
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thales-Eduardo}/count.svg" /></p> 
@@ -33,8 +23,12 @@
   ## 
   
   <div>
-  <a href = "mailto: thalesdev22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thales-eduardo-a7901120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-%20badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto: thalesdev22@gmail.com" target="_blank">
+    <img alt="CSS" height="25" width="80" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/thales-eduardo-a7901120b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-%20badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
   
    
