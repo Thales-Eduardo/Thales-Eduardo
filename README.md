@@ -22,7 +22,7 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Redis" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png">
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
-  <img align="center" alt="Docker" height="50" width="50" src="https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png">
+  <img align="center" alt="Node" height="50" width="50" src="https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png">
 </div>
   <br/>
 <div>
@@ -31,6 +31,9 @@
   </a>
   <a href="https://www.linkedin.com/in/thales-eduardo-a7901120b/" target="_blank">
     <img alt="CSS" height="25" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-%20badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://gitlab.com/users/Thales_edu/groups" target="_blank">
+    <img height="40" width="80" src="https://brandeps.com/logo-download/G/GitLab-logo-vector-01.svg">
   </a>
 </div>
    
