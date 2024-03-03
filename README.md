@@ -4,7 +4,7 @@
 
 | Streaks|Languages|Statistics  |
 |--|--|--|
-|![a](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&layout=compact&theme=dracula)| ![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&layout=compact&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&hide=css,html,java,objective-c,Handlebars,ruby,Starlark&layout=compact&theme=dracula))| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&theme=dracula)|
+|![a](https://github-readme-streak-stats.herokuapp.com/?user=Thales-Eduardo&layout=compact&theme=dracula)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Eduardo&hide=css,html,java,objective-c,Handlebars,ruby,Starlark&layout=compact&theme=dracula)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales-Eduardo&show_icons=true&theme=dracula)|
 
 <div align="center">
   <br>
