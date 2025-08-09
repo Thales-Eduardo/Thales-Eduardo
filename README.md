@@ -9,12 +9,13 @@
 <div align="center">
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thales-Eduardo}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.deno.dev/:Thales-Eduardo:/count.svg" /></p> 
   <br>
 </div>
   
 <div  align="center">
 <div style="display: inline_block"><br>
+ 
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,6 +24,14 @@
   <img align="center" alt="Redis" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png">
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="Node" height="50" width="50" src="https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png">
+  <img align="center" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" alt="Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg">
+  <img align="center" alt="Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
+  
+  
+  
 </div>
   <br/>
 <div>
