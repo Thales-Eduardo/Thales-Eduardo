@@ -16,21 +16,21 @@
 <div  align="center">
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Redis" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png">
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
-  <img align="center" alt="Node" height="50" width="50" src="https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png">
-  <img align="center" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
-  <img align="center" alt="Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
-  
-  
+  <img align="center" title="JavaScript" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="typescript" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" title="go" alt="go" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg">
+  <img align="center" title="React" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="HTML" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Docker" alt="Docker" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img align="center" title="Node" alt="Node" height="50" width="50" src="https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png">
+  <img align="center" title="nestjs" alt="nestjs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" title="rabbitmq" alt="rabbitmq" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" title="kubernetes" alt="kubernetes" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" title="aws" alt="amazonwebservices" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" title="firebase" alt="firebase" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
+  <img align="center" title="Redis" alt="Redis" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png">
+  <img align="center" title="jest" alt="jest" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg">
   
 </div>
   <br/>
